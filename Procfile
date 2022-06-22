@@ -1,1 +1,1 @@
-web: gunicorn ecommerce_base.wsgi -- log-file -
+web: gunicorn portfolioAPI.wsgi -- log-file -
