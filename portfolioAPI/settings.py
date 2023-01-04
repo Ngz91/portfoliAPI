@@ -28,7 +28,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY', True)
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["ngzportfolioapi.herokuapp.com", "127.0.0.1"]
+ALLOWED_HOSTS = ["ngzportfolioapi.herokuapp.com", "127.0.0.1", "web-production-f691.up.railway.app"]
 
 
 # Application definition
